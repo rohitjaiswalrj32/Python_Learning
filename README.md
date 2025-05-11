@@ -20,12 +20,18 @@ Practiced basic algorithms using [draw.io](https://draw.io) including:
 
 1. ✅ Even/Odd Checker  
    [Even/Odd Flowchart](https://app.diagrams.net/#Hrohitjaiswalrj32%2FFlowcharts%2Fmain%2Fflowchart1.drawio#%7B%22pageId%22%3A%22QOld8AiaXbUUEI0DL37W%22%7D)
+   <img width="294" alt="{E30014E5-14B8-46F4-B84C-E2442B7F4023}" src="https://github.com/user-attachments/assets/55777abb-a1f6-47a4-ad4e-a15f1c5aa635" />
+
 
 2. ✅ Calculator – Addition & Subtraction  
    [Calculator Flowchart](https://app.diagrams.net/#Hrohitjaiswalrj32%2FFlowcharts%2Fmain%2Fflowchart1.drawio#%7B%22pageId%22%3A%22kexJNnkVuC1LKTrwEOO6%22%7D)
+![image](https://github.com/user-attachments/assets/1e9f82f7-a895-499a-b149-4b4b3a03fae9)
+
 
 3. ✅ Find the Largest of Three Numbers  
    [Largest Number Flowchart](https://app.diagrams.net/#Hrohitjaiswalrj32%2FFlowcharts%2Fmain%2Fflowchart1.drawio#%7B%22pageId%22%3A%22kexJNnkVuC1LKTrwEOO6%22%7D)
+![image](https://github.com/user-attachments/assets/9afa4b94-5ab7-4bab-ba24-e38fc12607e9)
+
 
 > Flowcharts help visualize logic before writing actual code.  
 > Parallelogram = Input/Output, Rectangle = Process, Diamond = Decision.
