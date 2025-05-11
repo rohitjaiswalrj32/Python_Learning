@@ -82,22 +82,22 @@ You can find the code [here](https://colab.research.google.com/drive/1l4yKEo8oBn
 - Check if the number is NOT equal to 15.
 
 ### Exercise 4: Assignment Operator
-# Start with a variable a = 10
-# - Add 5 to it
-# - Subtract 3
-# - Multiply by 2
-# - Divide by 4
-# Print the final value after each operation
+- Start with a variable a = 10
+- Add 5 to it
+- Subtract 3
+- Multiply by 2
+- Divide by 4
+- Print the final value after each operation
 
 ### Exercise 5: Membership Operator
-# Take a string input from the user
-# - Check if the letter 'a' is in it
-# - Check if the word 'Python' is in it
+- Take a string input from the user
+- Check if the letter 'a' is in it
+- Check if the word 'Python' is in it
 
 ### Exercise 6: Identity Operator
-# Create two identical lists and check:
-# - if they are the same object using `is`
-# - if they are not the same object using `is not`
+- Create two identical lists and check:
+- if they are the same object using `is`
+- if they are not the same object using `is not`
 
 
 ---
