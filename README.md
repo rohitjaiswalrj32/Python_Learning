@@ -5,16 +5,13 @@ This repository contains basic Python programs and exercises aimed at building a
 
 ---
 
-📌 Table of Contents
-🔷 Flowcharts (Visual Logic)
+## 📌 Table of Contents
 
-🔹 Input & Output Basics
-
-🔸 Operators and Expressions
-
-🔻 Conditional Statements (Control Flow)
-
-🧪 Practice Exercises
+- [🔷 Flowcharts (Visual Logic)](#flowcharts-visual-logic)  
+- [🔹 Input & Output Basics](#input--output-basics)  
+- [🔸 Operators and Expressions](#operators-and-expressions)  
+- [🔻 Conditional Statements (Control Flow)](#conditional-statements-control-flow)  
+- [🧪 Practice Exercises](#practice-exercises)  
 
 
 ---
