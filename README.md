@@ -12,6 +12,20 @@ This repository contains basic Python programs and exercises aimed at building a
 - [🔸 Operators and Expressions](#-operators-and-expressions)
 - [🧪 Practice Exercises](#-practice-exercises)
 
+📌 Table of Contents
+
+🔷 Flowcharts (Visual Logic)
+
+🔹 Input & Output Basics
+
+🔸 Operators and Expressions
+
+🔻 Conditional Statements (Control Flow)
+
+🧪 Practice Exercises
+
+
+
 ---
 
 ## 🔷 Flowcharts (Visual Logic)
@@ -99,6 +113,34 @@ You can find the code [here](https://colab.research.google.com/drive/1l4yKEo8oBn
 - if they are the same object using `is`
 - if they are not the same object using `is not`
 
+🔻 Conditional Statements (Control Flow)
+Learned how to control the flow of a Python program using if, if-else, if-elif-else, and nested conditions.
+
+Key concepts practiced:
+
+✅ if — Executes a block only if condition is true
+
+✅ if-else — Executes one block if true, another if false
+
+✅ if-elif-else — Checks multiple conditions sequentially
+
+✅ Nested if — Condition inside another condition
+
+🧠 Used for decision-making in real-world logic like grading, login systems, and eligibility checks.
+
+✔️ Exercises Practiced:
+
+1. Positive, Negative, or Zero
+2. Even or Odd Checker
+3. Voting Eligibility
+4. Largest of Three Numbers
+5. Grading System
+6. Leap Year Checker
+7. Number in Range (1–100)
+8. Simple Login System
+
+
+✅ This marks the completion of control flow fundamentals in Python.
 
 ---
 
@@ -106,13 +148,13 @@ You can find the code [here](https://colab.research.google.com/drive/1l4yKEo8oBn
 
 - [Operators Exercise on Google Colab](https://colab.research.google.com/drive/1l4yKEo8oBnYpPlBHwgVnN4w_950weohT#scrollTo=GqbGTScx9z4x)
 - [Basic Input/Output on Google Colab](https://colab.research.google.com/drive/1h9NTsgz5WaSRol5jPg6RXs7h6wD99Rm8)
+- [Conditional Statements on Google Colab](https://colab.research.google.com/drive/1Sx-Qy1ldv1J8slBe9c-uS7XsFG8jhITn?usp=sharing)
 
 ---
 
 ## 📈 Next Up
 
 Coming soon:
-- ✅ Control Flow (if-else, nested if)
 - ✅ Loops (for, while)
 - ✅ Data Types (lists, tuples, sets, dicts)
 - ✅ Functions
