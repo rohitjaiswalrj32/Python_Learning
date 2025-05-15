@@ -172,6 +172,20 @@ You can find the code [here](https://colab.research.google.com/drive/15qtrXbVeNF
 - Number in Range (1–100)  
 - Simple Login System  
 
+### Exercise 9: Loops (for, while)
+- Print numbers from 10 to 1 using a `for` loop  
+- Print even numbers from 1 to 20  
+- Print each character of a string  
+- Generate multiplication table for any number  
+- Calculate sum of numbers from 1 to N  
+- Print numbers from 1 to 100 using `while` loop  
+- Print odd numbers from 50 to 70 using `while` loop  
+- Calculate factorial of a number  
+- Reverse a number using a loop  
+- Use `break` to exit loop on a specific condition  
+- Use `continue` to skip specific values in a loop  
+  
+
 ---
 
 ## 🔗 Colab Notebooks
