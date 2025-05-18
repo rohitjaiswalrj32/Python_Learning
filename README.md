@@ -8,7 +8,7 @@ This repository contains basic Python programs and exercises aimed at building a
 ## 📌 Table of Contents
 
 - [🔷 Flowcharts (Visual Logic)](#flowcharts-visual-logic)  
-- [🔹 Input & Output Basics](#input--output-basics)  
+- [🔹 Input & Output Basics](#Input-&-Output-Basics)  
 - [🔸 Operators and Expressions](#operators-and-expressions)  
 - [🔻 Conditional Statements (Control Flow)](#conditional-statements-control-flow)  
 - [🔁 Loops (for, while)](#loops-for-while)  
