@@ -8,10 +8,11 @@ This repository contains basic Python programs and exercises aimed at building a
 ## 📌 Table of Contents
 
 - [🔷 Flowcharts (Visual Logic)](#flowcharts-visual-logic)  
-- [🔹 Input & Output Basics](#Input-&-Output-Basics)  
+- [🔹 Input & Output Basics](#input--output-basics)  
 - [🔸 Operators and Expressions](#operators-and-expressions)  
 - [🔻 Conditional Statements (Control Flow)](#conditional-statements-control-flow)  
 - [🔁 Loops (for, while)](#loops-for-while)  
+- [✅ Functions](#functions)  
 - [🧪 Practice Exercises](#practice-exercises)  
 
 ---
@@ -122,6 +123,36 @@ You can find the code [here](https://colab.research.google.com/drive/15qtrXbVeNF
 
 ---
 
+## ✅ Functions
+
+Learned how to write reusable blocks of code using functions in Python.
+
+### Key Concepts Covered:
+
+- Defining a function with `def` keyword  
+- Function parameters and arguments  
+- Returning values from functions using `return`  
+- Calling functions to execute code  
+- Understanding **variable scope**:  
+  - **Global variables** (defined outside functions, accessible everywhere)  
+  - **Local variables** (defined inside functions, accessible only within)  
+  - Using `global` keyword to modify global variables inside functions  
+
+---
+
+### 🧪 Function Practice Exercises
+
+1. Write a function `greet_user()` that takes a name and prints a greeting message.  
+2. Write a function `add_numbers(a, b)` that returns the sum of two numbers.  
+3. Write a function `check_even(number)` that returns "Even" or "Odd".  
+4. Write a function `factorial(n)` to calculate the factorial of a number.  
+5. Write a function `find_largest(a, b, c)` to find the largest of three numbers.  
+6. Write a simple calculator function `calculate(a, b, operation)` to perform basic arithmetic.  
+7. Write a function `is_prime(n)` to check if a number is prime.  
+8. Write a function `c_to_f(celsius)` to convert Celsius to Fahrenheit.
+
+---
+
 ## 🧪 Practice Exercises
 
 ### Exercise 1: Flowcharts (Visual Logic)
@@ -176,34 +207,43 @@ You can find the code [here](https://colab.research.google.com/drive/15qtrXbVeNF
 - Print numbers from 10 to 1 using a `for` loop  
 - Print even numbers from 1 to 20  
 - Print each character of a string  
-- Generate multiplication table for any number  
-- Calculate sum of numbers from 1 to N  
-- Print numbers from 1 to 100 using `while` loop  
-- Print odd numbers from 50 to 70 using `while` loop  
-- Calculate factorial of a number  
-- Reverse a number using a loop  
-- Use `break` to exit loop on a specific condition  
-- Use `continue` to skip specific values in a loop  
-  
+- Generate multiplication table of a number  
+- Calculate sum from 1 to N  
+- Factorial of a number using loop  
+- Reverse a number using loop  
+- Use `break` and `continue` in loops  
+
+### Exercise 10: Functions
+- Greet user by name  
+- Add two numbers  
+- Check even or odd  
+- Calculate factorial  
+- Find largest of three numbers  
+- Simple calculator for basic operations  
+- Check if prime  
+- Convert Celsius to Fahrenheit  
 
 ---
 
-## 🔗 Colab Notebooks
+## 📈 Next Steps
 
-- [Operators Exercise on Google Colab](https://colab.research.google.com/drive/1l4yKEo8oBnYpPlBHwgVnN4w_950weohT#scrollTo=GqbGTScx9z4x)  
-- [Basic Input/Output on Google Colab](https://colab.research.google.com/drive/1h9NTsgz5WaSRol5jPg6RXs7h6wD99Rm8)  
-- [Conditional Statements on Google Colab](https://colab.research.google.com/drive/1Sx-Qy1ldv1J8slBe9c-uS7XsFG8jhITn?usp=sharing)  
-- [Loops on Google Colab](https://colab.research.google.com/drive/15qtrXbVeNFRUnPF2GKp6xNIYyyIz-RSD?usp=sharing)
-
----
-
-## 📈 Next Up
-
-Coming soon:
-- ✅ Data Types (Lists, Tuples, Sets, Dictionaries)  
-- ✅ Functions  
-- ✅ Mini Projects  
+- Data Structures: Lists, Tuples, Sets, Dictionaries  
+- Advanced Functions and Modules  
+- File Handling  
+- Introduction to Pandas and NumPy  
+- Basic Data Visualization with Matplotlib  
 
 ---
 
-💡 _Learning one line at a time!_
+💡 _Learning Python step-by-step, one day at a time!_
+
+---
+
+Feel free to explore the notebooks and practice code.  
+Questions and suggestions welcome!
+
+---
+
+# Author: Rohit Jaiswal  
+# LinkedIn: https://linkedin.com/in/rohitjaiswalrj32  
+# GitHub: https://github.com/rohitjaiswalrj32  
