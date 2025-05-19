@@ -14,6 +14,7 @@ This repository contains basic Python programs and exercises aimed at building a
 - [🔁 Loops (for, while)](#loops-for-while)  
 - [✅ Functions](#functions)  
 - [🧩 Data Structures](#data-structures)  
+- [📂 File Handling](#file-handling)  
 - [🧪 Practice Exercises](#practice-exercises)  
 
 ---
@@ -155,6 +156,21 @@ You can find the code [here](https://colab.research.google.com/drive/1qudyxGBXeM
 
 ---
 
+## 📂 File Handling
+
+Learned how to work with files in Python:
+
+- Opening files using `open()` in different modes (`r`, `w`, `a`, `r+`)  
+- Reading file contents (`read()`, `readline()`, `readlines()`)  
+- Writing data to files (`write()`, `writelines()`)  
+- Closing files using `close()` or using context managers (`with` statement)  
+- Handling file exceptions with try-except  
+- Working with file paths and file operations  
+
+You can find the code [here](https://colab.research.google.com/drive/1xrSzm3QoptgdMDE_HoScpeFra8DW9dQW?usp=sharing).
+
+---
+
 ## 🧪 Practice Exercises
 
 ### Exercise 1: Flowcharts (Visual Logic)
@@ -242,12 +258,20 @@ You can find the code [here](https://colab.research.google.com/drive/1qudyxGBXeM
 - Iterate over data structures  
 - Use common built-in methods and operations  
 
+### Exercise 12: File Handling
+
+- Open and read a text file  
+- Write text to a file  
+- Append data to an existing file  
+- Read file line by line  
+- Handle file not found exception  
+- Use context manager for file operations  
+
 ---
 
 ## 📈 Next Steps
 
 - Advanced Functions and Modules  
-- File Handling  
 - Exception Handling  
 - Introduction to Pandas and NumPy  
 - Basic Data Visualization with Matplotlib  
