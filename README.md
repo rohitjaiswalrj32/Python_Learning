@@ -13,6 +13,7 @@ This repository contains basic Python programs and exercises aimed at building a
 - [🔻 Conditional Statements (Control Flow)](#conditional-statements-control-flow)  
 - [🔁 Loops (for, while)](#loops-for-while)  
 - [✅ Functions](#functions)  
+- [🧩 Data Structures](#data-structures)  
 - [🧪 Practice Exercises](#practice-exercises)  
 
 ---
@@ -23,18 +24,12 @@ Practiced basic algorithms using [draw.io](https://draw.io) including:
 
 1. ✅ Even/Odd Checker  
    [Even/Odd Flowchart](https://app.diagrams.net/#Hrohitjaiswalrj32%2FFlowcharts%2Fmain%2Fflowchart1.drawio#%7B%22pageId%22%3A%22QOld8AiaXbUUEI0DL37W%22%7D)
-     
-   <img width="294" alt="{E30014E5-14B8-46F4-B84C-E2442B7F4023}" src="https://github.com/user-attachments/assets/55777abb-a1f6-47a4-ad4e-a15f1c5aa635" />
 
 2. ✅ Calculator – Addition & Subtraction  
    [Calculator Flowchart](https://app.diagrams.net/#Hrohitjaiswalrj32%2FFlowcharts%2Fmain%2Fflowchart1.drawio#%7B%22pageId%22%3A%22kexJNnkVuC1LKTrwEOO6%22%7D)
 
-   ![image](https://github.com/user-attachments/assets/1e9f82f7-a895-499a-b149-4b4b3a03fae9)
-
 3. ✅ Find the Largest of Three Numbers  
    [Largest Number Flowchart](https://app.diagrams.net/#Hrohitjaiswalrj32%2FFlowcharts%2Fmain%2Fflowchart1.drawio#%7B%22pageId%22%3A%22kexJNnkVuC1LKTrwEOO6%22%7D)
-
-   ![image](https://github.com/user-attachments/assets/9afa4b94-5ab7-4bab-ba24-e38fc12607e9)
 
 > Flowcharts help visualize logic before writing actual code.  
 > Parallelogram = Input/Output, Rectangle = Process, Diamond = Decision.
@@ -53,11 +48,11 @@ You can find the code [here](https://colab.research.google.com/drive/1h9NTsgz5Wa
 
 Covered:
 
-- Arithmetic Operators (`+`, `-`, `*`, `/`, `//`, `%`, `**`)
-- Comparison Operators (`==`, `!=`, `>`, `<`, `>=`, `<=`)
-- Logical Operators (`and`, `or`, `not`)
-- Assignment Operators (`=`, `+=`, `-=`, etc.)
-- Membership Operators (`in`, `not in`)
+- Arithmetic Operators (`+`, `-`, `*`, `/`, `//`, `%`, `**`)  
+- Comparison Operators (`==`, `!=`, `>`, `<`, `>=`, `<=`)  
+- Logical Operators (`and`, `or`, `not`)  
+- Assignment Operators (`=`, `+=`, `-=`, etc.)  
+- Membership Operators (`in`, `not in`)  
 - Identity Operators (`is`, `is not`)
 
 You can find the code [here](https://colab.research.google.com/drive/1l4yKEo8oBnYpPlBHwgVnN4w_950weohT#scrollTo=GqbGTScx9z4x).
@@ -79,16 +74,14 @@ Key concepts practiced:
 
 ✔️ Exercises Practiced:
 
-1. Positive, Negative, or Zero  
-2. Even or Odd Checker  
-3. Voting Eligibility  
-4. Largest of Three Numbers  
-5. Grading System  
-6. Leap Year Checker  
-7. Number in Range (1–100)  
-8. Simple Login System  
-
-✅ This marks the completion of control flow fundamentals in Python.
+- Positive, Negative, or Zero  
+- Even or Odd Checker  
+- Voting Eligibility  
+- Largest of Three Numbers  
+- Grading System  
+- Leap Year Checker  
+- Number in Range (1–100)  
+- Simple Login System  
 
 You can find the code [here](https://colab.research.google.com/drive/1Sx-Qy1ldv1J8slBe9c-uS7XsFG8jhITn?usp=sharing).
 
@@ -107,17 +100,17 @@ Learned how to repeat blocks of code using Python’s two primary loop types:
 
 ✔️ Exercises Practiced:
 
-1. Print numbers from 10 to 1 (reverse order) using `for`  
-2. Print all even numbers from 1 to 20  
-3. Print characters of a name one by one  
-4. Generate the multiplication table for a number  
-5. Calculate the sum of numbers from 1 to N  
-6. Use `while` to print numbers from 1 to 100  
-7. Use `while` to print odd numbers between 50 and 70  
-8. Calculate factorial using a loop  
-9. Reverse a number using loop logic  
-10. Use `break` to exit loop on a specific condition  
-11. Use `continue` to skip specific values during iteration
+- Print numbers from 10 to 1 (reverse order) using `for`  
+- Print all even numbers from 1 to 20  
+- Print characters of a name one by one  
+- Generate the multiplication table for a number  
+- Calculate the sum of numbers from 1 to N  
+- Use `while` to print numbers from 1 to 100  
+- Use `while` to print odd numbers between 50 and 70  
+- Calculate factorial using a loop  
+- Reverse a number using loop logic  
+- Use `break` to exit loop on a specific condition  
+- Use `continue` to skip specific values during iteration
 
 You can find the code [here](https://colab.research.google.com/drive/15qtrXbVeNFRUnPF2GKp6xNIYyyIz-RSD?usp=sharing).
 
@@ -138,44 +131,58 @@ Learned how to write reusable blocks of code using functions in Python.
   - **Local variables** (defined inside functions, accessible only within)  
   - Using `global` keyword to modify global variables inside functions  
 
+You can find the code [here](https://colab.research.google.com/drive/1mAcK2YjMQgUlDTie-w51lJFoLaveRuks?usp=sharing).
+
 ---
 
-### 🧪 Function Practice Exercises
+## 🧩 Data Structures
 
-1. Write a function `greet_user()` that takes a name and prints a greeting message.  
-2. Write a function `add_numbers(a, b)` that returns the sum of two numbers.  
-3. Write a function `check_even(number)` that returns "Even" or "Odd".  
-4. Write a function `factorial(n)` to calculate the factorial of a number.  
-5. Write a function `find_largest(a, b, c)` to find the largest of three numbers.  
-6. Write a simple calculator function `calculate(a, b, operation)` to perform basic arithmetic.  
-7. Write a function `is_prime(n)` to check if a number is prime.  
-8. Write a function `c_to_f(celsius)` to convert Celsius to Fahrenheit.
+Learned about and practiced Python’s core data structures:
+
+- **Lists** — Ordered, mutable collections of elements  
+- **Tuples** — Ordered, immutable collections of elements  
+- **Sets** — Unordered collections of unique elements  
+- **Dictionaries** — Key-value pairs, unordered and mutable  
+
+Key operations covered:
+
+- Creating, accessing, updating, and deleting elements  
+- Iterating over each data structure  
+- Common methods like append, remove, pop, keys, values, add, discard, etc.  
+- Differences and appropriate use-cases for each data structure  
+
+You can find the code [here](https://colab.research.google.com/drive/1qudyxGBXeMBe0PgFEFH-yy8TTFXjobZv?usp=sharing).
 
 ---
 
 ## 🧪 Practice Exercises
 
 ### Exercise 1: Flowcharts (Visual Logic)
+
 - Even/Odd Checker  
 - Calculator – Addition & Subtraction  
 - Find the Largest of Three Numbers  
 
 ### Exercise 2: Input/Output Basics
+
 - Take the user's name and age, then print a greeting  
 - Ask for two numbers and print their sum  
 - Print data types of entered values  
 
 ### Exercise 3: Operator Practice
+
 - Perform all arithmetic operations between two numbers  
 - Compare two numbers using comparison operators  
 - Use logical, identity, and membership operators  
 
 ### Exercise 4: Logical Check with if/elif/else
+
 - Check if the number is greater than 10 AND even  
 - Check if the number is less than 5 OR greater than 20  
 - Check if the number is NOT equal to 15  
 
 ### Exercise 5: Assignment Operator
+
 - Start with a variable `a = 10`  
 - Add 5 to it  
 - Subtract 3  
@@ -184,16 +191,19 @@ Learned how to write reusable blocks of code using functions in Python.
 - Print the final value after each operation  
 
 ### Exercise 6: Membership Operator
+
 - Take a string input from the user  
 - Check if the letter `'a'` is in it  
 - Check if the word `'Python'` is in it  
 
 ### Exercise 7: Identity Operator
+
 - Create two identical lists and check:  
   - if they are the same object using `is`  
   - if they are not the same object using `is not`  
 
 ### Exercise 8: Conditional Statements (Control Flow)
+
 - Positive, Negative, or Zero  
 - Even or Odd Checker  
 - Voting Eligibility  
@@ -204,6 +214,7 @@ Learned how to write reusable blocks of code using functions in Python.
 - Simple Login System  
 
 ### Exercise 9: Loops (for, while)
+
 - Print numbers from 10 to 1 using a `for` loop  
 - Print even numbers from 1 to 20  
 - Print each character of a string  
@@ -214,6 +225,7 @@ Learned how to write reusable blocks of code using functions in Python.
 - Use `break` and `continue` in loops  
 
 ### Exercise 10: Functions
+
 - Greet user by name  
 - Add two numbers  
 - Check even or odd  
@@ -223,13 +235,20 @@ Learned how to write reusable blocks of code using functions in Python.
 - Check if prime  
 - Convert Celsius to Fahrenheit  
 
+### Exercise 11: Data Structures
+
+- Create and manipulate lists, tuples, sets, dictionaries  
+- Access, update, and delete elements  
+- Iterate over data structures  
+- Use common built-in methods and operations  
+
 ---
 
 ## 📈 Next Steps
 
-- Data Structures: Lists, Tuples, Sets, Dictionaries  
 - Advanced Functions and Modules  
 - File Handling  
+- Exception Handling  
 - Introduction to Pandas and NumPy  
 - Basic Data Visualization with Matplotlib  
 
@@ -246,4 +265,4 @@ Questions and suggestions welcome!
 
 # Author: Rohit Jaiswal  
 # LinkedIn: https://linkedin.com/in/rohitjaiswalrj32  
-# GitHub: https://github.com/rohitjaiswalrj32  
+# GitHub: https://github.com/rohitjaiswalrj32
