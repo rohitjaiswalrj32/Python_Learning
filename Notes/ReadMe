@@ -11,14 +11,14 @@ This is a curated collection of notes, tutorials, and hands-on exercises coverin
 |-----------|-----------------------------|----------------------------------------------------------|
 | 1         | Flowchart                   | Visualize program flow with diagrams and algorithm design. |
 | 2         | Pseudo Code                 | Writing human-readable algorithm steps before coding.   |
-| 3         | Functions                  | Understanding Python functions, parameters, and returns. |
+| 3         | Functions                   | Understanding Python functions, parameters, and returns. |
 | 4         | List and Tuples             | Working with ordered collections in Python.             |
 | 5         | Sets and Dictionary         | Unique collections & key-value pairs explained clearly. |
-| 6         | String                     | Manipulation, formatting, and processing of text data.  |
+| 6         | String                      | Manipulation, formatting, and processing of text data.  |
 | 7         | Object-Oriented Programming (OOP) | Classes, objects, inheritance, encapsulation, polymorphism. |
-| 8         | Methods                    | Instance, class, and static methods in Python classes.  |
-| 9         | NumPy                      | Numerical computations and array handling library.       |
-| 10        | Pandas                     | Data manipulation and analysis with DataFrames.         |
+| 8         | Methods                     | Instance, class, and static methods in Python classes.  |
+| 9         | NumPy                       | Numerical computations and array handling library.      |
+| 10        | Pandas                      | Data manipulation and analysis with DataFrames.         |
 | 11        | Data Visualization          | Creating graphs & charts to visualize data insights.    |
 
 ---
