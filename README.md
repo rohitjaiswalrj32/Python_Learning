@@ -301,6 +301,16 @@ Learned how to use **NumPy**, the foundational package for numerical computing i
 - Handle file not found exception  
 - Use context manager for file operations  
 
+### Exercise 13: NumPy Basics
+
+- Create 1D and 2D arrays  
+- Access elements using indexing and slicing  
+- Perform arithmetic operations on arrays  
+- Use aggregation functions (`sum`, `mean`, `max`, etc.)  
+- Sort arrays using `np.sort()` and `np.argsort()`  
+- Perform set operations (`union`, `intersection`, `difference`)  
+- Practice broadcasting with scalar and array operations    
+
 ---
 
 💡 _Learning Python step-by-step, one day at a time!_
