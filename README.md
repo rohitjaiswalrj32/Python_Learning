@@ -42,8 +42,7 @@ Practiced basic algorithms using [draw.io](https://draw.io) including:
 
 Basic Python script to accept input from the user and display output.
 
-📘 **Code Notebook**:  
-[Input and Output Basics – Colab](https://colab.research.google.com/drive/1h9NTsgz5WaSRol5jPg6RXs7h6wD99Rm8).
+📘 **Code Notebook**: [Input and Output Basics – Colab](https://colab.research.google.com/drive/1h9NTsgz5WaSRol5jPg6RXs7h6wD99Rm8).
 
 ---
 
