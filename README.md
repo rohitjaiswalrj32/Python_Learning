@@ -15,6 +15,7 @@ This repository contains basic Python programs and exercises aimed at building a
 - [✅ Functions](#functions)  
 - [🧩 Data Structures](#data-structures)  
 - [📂 File Handling](#file-handling)  
+- [📊 NumPy (Numerical Python)](#numpy-numerical-python)  
 - [🧪 Practice Exercises](#practice-exercises)  
 
 ---
@@ -168,6 +169,40 @@ Learned how to work with files in Python:
 - Working with file paths and file operations  
 
 You can find the code [here](https://colab.research.google.com/drive/1xrSzm3QoptgdMDE_HoScpeFra8DW9dQW?usp=sharing).
+
+---
+
+## 📊 NumPy (Numerical Python)
+
+Learned how to use **NumPy**, the foundational package for numerical computing in Python. Key topics covered:
+
+### 🔹 Basics:
+- Creating 1D, 2D, and 3D arrays using `np.array()`, `np.zeros()`, `np.ones()`, `np.arange()`, and `np.linspace()`
+- Understanding array shape, dimension, data types, and size
+
+### 🔹 Indexing & Slicing:
+- 1D and 2D slicing
+- Fancy indexing and Boolean indexing
+
+### 🔹 Array Operations:
+- Arithmetic operations (add, subtract, multiply, divide)
+- Aggregate functions like `sum()`, `mean()`, `max()`, `min()`, `std()`
+- Broadcasting and comparison operators
+
+### 🔹 Sorting:
+- Sorting arrays using `np.sort()`, `np.argsort()`
+- Row-wise and column-wise sorting
+
+### 🔹 Set Operations:
+- Finding unique elements using `np.unique()`
+- Set intersections, unions, differences, and symmetric differences using:
+  - `np.intersect1d()`
+  - `np.union1d()`
+  - `np.setdiff1d()`
+  - `np.setxor1d()`
+
+📘 **Code Notebook**:  
+[NumPy Exercises – Colab](https://colab.research.google.com/drive/1chwFvP1wpuoy1VSbDemeDlI-jJS9CzJs?usp=sharing)
 
 ---
 
