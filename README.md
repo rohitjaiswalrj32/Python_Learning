@@ -57,8 +57,7 @@ Covered:
 - Membership Operators (`in`, `not in`)  
 - Identity Operators (`is`, `is not`)
 
-📘 **Code Notebook**:  
-[Operators and Expressions – Colab](https://colab.research.google.com/drive/1l4yKEo8oBnYpPlBHwgVnN4w_950weohT#scrollTo=GqbGTScx9z4x).
+📘 **Code Notebook**: [Operators and Expressions – Colab](https://colab.research.google.com/drive/1l4yKEo8oBnYpPlBHwgVnN4w_950weohT#scrollTo=GqbGTScx9z4x).
 
 ---
 
@@ -86,8 +85,7 @@ Key concepts practiced:
 - Number in Range (1–100)  
 - Simple Login System  
 
-📘 **Code Notebook**:  
-[Conditional_Statements – Colab](https://colab.research.google.com/drive/1Sx-Qy1ldv1J8slBe9c-uS7XsFG8jhITn?usp=sharing).
+📘 **Code Notebook**: [Conditional_Statements – Colab](https://colab.research.google.com/drive/1Sx-Qy1ldv1J8slBe9c-uS7XsFG8jhITn?usp=sharing).
 
 ---
 
@@ -116,8 +114,7 @@ Learned how to repeat blocks of code using Python’s two primary loop types:
 - Use `break` to exit loop on a specific condition  
 - Use `continue` to skip specific values during iteration
 
-📘 **Code Notebook**:  
-[Loops – Colab](https://colab.research.google.com/drive/15qtrXbVeNFRUnPF2GKp6xNIYyyIz-RSD?usp=sharing).
+📘 **Code Notebook**: [Loops – Colab](https://colab.research.google.com/drive/15qtrXbVeNFRUnPF2GKp6xNIYyyIz-RSD?usp=sharing).
 
 ---
 
@@ -136,8 +133,7 @@ Learned how to write reusable blocks of code using functions in Python.
   - **Local variables** (defined inside functions, accessible only within)  
   - Using `global` keyword to modify global variables inside functions  
 
-📘 **Code Notebook**:  
-[Functions – Colab](https://colab.research.google.com/drive/1mAcK2YjMQgUlDTie-w51lJFoLaveRuks?usp=sharing).
+📘 **Code Notebook**: [Functions – Colab](https://colab.research.google.com/drive/1mAcK2YjMQgUlDTie-w51lJFoLaveRuks?usp=sharing).
 
 ---
 
@@ -157,8 +153,7 @@ Key operations covered:
 - Common methods like append, remove, pop, keys, values, add, discard, etc.  
 - Differences and appropriate use-cases for each data structure  
 
-📘 **Code Notebook**:  
-[Data Structures – Colab](https://colab.research.google.com/drive/1qudyxGBXeMBe0PgFEFH-yy8TTFXjobZv?usp=sharing).
+📘 **Code Notebook**: [Data Structures – Colab](https://colab.research.google.com/drive/1qudyxGBXeMBe0PgFEFH-yy8TTFXjobZv?usp=sharing).
 
 ---
 
@@ -173,8 +168,7 @@ Learned how to work with files in Python:
 - Handling file exceptions with try-except  
 - Working with file paths and file operations  
 
-📘 **Code Notebook**:  
-[File_Handling – Colab](https://colab.research.google.com/drive/1xrSzm3QoptgdMDE_HoScpeFra8DW9dQW?usp=sharing).
+📘 **Code Notebook**: [File_Handling – Colab](https://colab.research.google.com/drive/1xrSzm3QoptgdMDE_HoScpeFra8DW9dQW?usp=sharing).
 
 ---
 
@@ -207,8 +201,7 @@ Learned how to use **NumPy**, the foundational package for numerical computing i
   - `np.setdiff1d()`
   - `np.setxor1d()`
 
-📘 **Code Notebook**:  
-[NumPy – Colab](https://colab.research.google.com/drive/1chwFvP1wpuoy1VSbDemeDlI-jJS9CzJs?usp=sharing)
+📘 **Code Notebook**: [NumPy – Colab](https://colab.research.google.com/drive/1chwFvP1wpuoy1VSbDemeDlI-jJS9CzJs?usp=sharing)
 
 ---
 
