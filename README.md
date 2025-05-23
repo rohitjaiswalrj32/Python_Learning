@@ -304,15 +304,6 @@ Learned how to use **NumPy**, the foundational package for numerical computing i
 
 ---
 
-## 📈 Next Steps
-
-- Advanced Functions and Modules  
-- Exception Handling  
-- Introduction to Pandas and NumPy  
-- Basic Data Visualization with Matplotlib  
-
----
-
 💡 _Learning Python step-by-step, one day at a time!_
 
 ---
