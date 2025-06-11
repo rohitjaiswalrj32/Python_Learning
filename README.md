@@ -316,7 +316,7 @@ Learned how to use **NumPy**, the foundational package for numerical computing i
 ## 📝 Detailed Notes
 
 You can explore topic-wise detailed notes and notebooks here:  
-➡️ [Python Learning Notes 📂](Notes/README.md)
+➡️ [Python Learning Notes 📂](Notes/ReadMe.md)
 
 ---
 
