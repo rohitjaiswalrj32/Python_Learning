@@ -7,19 +7,19 @@ This is a curated collection of notes, tutorials, and hands-on exercises coverin
 
 ## 📚 Contents
 
-| Topic No. | Topic Name                  | Description                                                  |
-|-----------|-----------------------------|--------------------------------------------------------------|
-| 1         | Flowchart                   | Visualizing program flow using diagrams and algorithm design. |
-| 2         | Pseudocode                  | Writing human-readable algorithm steps before coding.         |
-| 3         | Functions                   | Understanding Python functions, parameters, and return values. |
-| 4         | Lists and Tuples            | Working with ordered collections in Python.                   |
-| 5         | Sets and Dictionaries       | Unique collections and key-value pairs explained clearly.     |
-| 6         | Strings                     | Manipulation, formatting, and processing of text data.        |
+| Topic No. | Topic Name                      | Description                                                  |
+|-----------|--------------------------------|--------------------------------------------------------------|
+| 1         | Flowchart                      | Visualizing program flow using diagrams and algorithm design. |
+| 2         | Pseudocode                     | Writing human-readable algorithm steps before coding.         |
+| 3         | Functions                     | Understanding Python functions, parameters, and return values. |
+| 4         | Lists and Tuples              | Working with ordered collections in Python.                   |
+| 5         | Sets and Dictionaries         | Unique collections and key-value pairs explained clearly.     |
+| 6         | Strings                      | Manipulation, formatting, and processing of text data.        |
 | 7         | Object-Oriented Programming (OOP) | Classes, objects, inheritance, encapsulation, and polymorphism. |
-| 8         | Methods                     | Instance, class, and static methods in Python.                |
-| 9         | NumPy                       | Numerical computations and array handling using NumPy.        |
-| 10        | Pandas                      | Data manipulation and analysis with DataFrames.               |
-| 11        | Data Visualization          | Creating graphs and charts to visualize data insights.        |
+| 8         | Methods                      | Instance, class, and static methods in Python.                |
+| 9         | NumPy                        | Numerical computations and array handling using NumPy.        |
+| 10        | Pandas                       | Data manipulation and analysis with DataFrames.               |
+| 11        | Data Visualization           | Creating graphs and charts to visualize data insights.        |
 
 ---
 
