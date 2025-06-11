@@ -7,20 +7,21 @@ This repository contains basic Python programs and exercises aimed at building a
 
 ## 📌 Table of Contents
 
-- [🔷 Flowcharts (Visual Logic)](#flowcharts-visual-logic)  
-- [🔹 Input & Output Basics](#input-output-basics)  
-- [🔸 Operators and Expressions](#operators-and-expressions)  
-- [🔻 Conditional Statements (Control Flow)](#conditional-statements-control-flow)  
-- [🔁 Loops (for, while)](#loops-for-while)  
-- [✅ Functions](#functions)  
-- [🧩 Data Structures](#data-structures)  
-- [📂 File Handling](#file-handling)  
-- [📊 NumPy (Numerical Python)](#numpy-numerical-python)  
-- [🧪 Practice Exercises](#practice-exercises)    
+- [Flowcharts Visual Logic](#flowcharts-visual-logic)  
+- [Input and Output Basics](#input-and-output-basics)  
+- [Operators and Expressions](#operators-and-expressions)  
+- [Conditional Statements Control Flow](#conditional-statements-control-flow)  
+- [Loops for while](#loops-for-while)  
+- [Functions](#functions)  
+- [Data Structures](#data-structures)  
+- [File Handling](#file-handling)  
+- [NumPy Numerical Python](#numpy-numerical-python)  
+- [Practice Exercises](#practice-exercises)  
 
 ---
 
-## 🔷 Flowcharts (Visual Logic)
+<a name="flowcharts-visual-logic"></a>
+## Flowcharts Visual Logic
 
 Practiced basic algorithms using [draw.io](https://draw.io) including:
 
@@ -38,7 +39,8 @@ Practiced basic algorithms using [draw.io](https://draw.io) including:
 
 ---
 
-## 🔹 Input & Output Basics
+<a name="input-and-output-basics"></a>
+## Input and Output Basics
 
 Basic Python script to accept input from the user and display output.
 
@@ -46,7 +48,8 @@ Basic Python script to accept input from the user and display output.
 
 ---
 
-## 🔸 Operators and Expressions
+<a name="operators-and-expressions"></a>
+## Operators and Expressions
 
 Covered:
 
@@ -61,7 +64,8 @@ Covered:
 
 ---
 
-## 🔻 Conditional Statements (Control Flow)
+<a name="conditional-statements-control-flow"></a>
+## Conditional Statements Control Flow
 
 Learned how to control the flow of a Python program using if, if-else, if-elif-else, and nested conditions.
 
@@ -85,11 +89,12 @@ Key concepts practiced:
 - Number in Range (1–100)  
 - Simple Login System  
 
-📘 **Code Notebook**: [Conditional_Statements – Colab](https://colab.research.google.com/drive/1Sx-Qy1ldv1J8slBe9c-uS7XsFG8jhITn?usp=sharing).
+📘 **Code Notebook**: [Conditional Statements – Colab](https://colab.research.google.com/drive/1Sx-Qy1ldv1J8slBe9c-uS7XsFG8jhITn?usp=sharing).
 
 ---
 
-## 🔁 Loops (for, while)
+<a name="loops-for-while"></a>
+## Loops for while
 
 Learned how to repeat blocks of code using Python’s two primary loop types:
 
@@ -118,7 +123,8 @@ Learned how to repeat blocks of code using Python’s two primary loop types:
 
 ---
 
-## ✅ Functions
+<a name="functions"></a>
+## Functions
 
 Learned how to write reusable blocks of code using functions in Python.
 
@@ -137,7 +143,8 @@ Learned how to write reusable blocks of code using functions in Python.
 
 ---
 
-## 🧩 Data Structures
+<a name="data-structures"></a>
+## Data Structures
 
 Learned about and practiced Python’s core data structures:
 
@@ -157,7 +164,8 @@ Key operations covered:
 
 ---
 
-## 📂 File Handling
+<a name="file-handling"></a>
+## File Handling
 
 Learned how to work with files in Python:
 
@@ -168,32 +176,33 @@ Learned how to work with files in Python:
 - Handling file exceptions with try-except  
 - Working with file paths and file operations  
 
-📘 **Code Notebook**: [File_Handling – Colab](https://colab.research.google.com/drive/1xrSzm3QoptgdMDE_HoScpeFra8DW9dQW?usp=sharing).
+📘 **Code Notebook**: [File Handling – Colab](https://colab.research.google.com/drive/1xrSzm3QoptgdMDE_HoScpeFra8DW9dQW?usp=sharing).
 
 ---
 
-## 📊 NumPy (Numerical Python)
+<a name="numpy-numerical-python"></a>
+## NumPy Numerical Python
 
 Learned how to use **NumPy**, the foundational package for numerical computing in Python. Key topics covered:
 
-### 🔹 Basics:
+### Basics:
 - Creating 1D, 2D, and 3D arrays using `np.array()`, `np.zeros()`, `np.ones()`, `np.arange()`, and `np.linspace()`
 - Understanding array shape, dimension, data types, and size
 
-### 🔹 Indexing & Slicing:
+### Indexing & Slicing:
 - 1D and 2D slicing
 - Fancy indexing and Boolean indexing
 
-### 🔹 Array Operations:
+### Array Operations:
 - Arithmetic operations (add, subtract, multiply, divide)
 - Aggregate functions like `sum()`, `mean()`, `max()`, `min()`, `std()`
 - Broadcasting and comparison operators
 
-### 🔹 Sorting:
+### Sorting:
 - Sorting arrays using `np.sort()`, `np.argsort()`
 - Row-wise and column-wise sorting
 
-### 🔹 Set Operations:
+### Set Operations:
 - Finding unique elements using `np.unique()`
 - Set intersections, unions, differences, and symmetric differences using:
   - `np.intersect1d()`
@@ -205,9 +214,10 @@ Learned how to use **NumPy**, the foundational package for numerical computing i
 
 ---
 
-## 🧪 Practice Exercises
+<a name="practice-exercises"></a>
+## Practice Exercises
 
-### Exercise 1: Flowcharts (Visual Logic)
+### Exercise 1: Flowcharts Visual Logic
 
 - Even/Odd Checker  
 - Calculator – Addition & Subtraction  
@@ -252,7 +262,7 @@ Learned how to use **NumPy**, the foundational package for numerical computing i
   - if they are the same object using `is`  
   - if they are not the same object using `is not`  
 
-### Exercise 8: Conditional Statements (Control Flow)
+### Exercise 8: Conditional Statements Control Flow
 
 - Positive, Negative, or Zero  
 - Even or Odd Checker  
@@ -260,10 +270,10 @@ Learned how to use **NumPy**, the foundational package for numerical computing i
 - Largest of Three Numbers  
 - Grading System  
 - Leap Year Checker  
-- Number in Range (1–100)  
+- Number in Range 1 to 100  
 - Simple Login System  
 
-### Exercise 9: Loops (for, while)
+### Exercise 9: Loops
 
 - Print numbers from 10 to 1 using a `for` loop  
 - Print even numbers from 1 to 20  
